@@ -1,7 +1,7 @@
 CREATE TABLE users(
 ) ;
 
-CREATE TABLE (
+CREATE TABLE projects (
 ); 
 
 CREATE TABLE (
