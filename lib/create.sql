@@ -1,4 +1,4 @@
-CREATE TABLE(
+CREATE TABLE users(
 ) ;
 
 CREATE TABLE (
