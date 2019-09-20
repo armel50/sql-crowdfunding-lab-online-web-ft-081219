@@ -4,5 +4,5 @@ CREATE TABLE users(
 CREATE TABLE projects (
 ); 
 
-CREATE TABLE (
+CREATE TABLE pleges (
 );
